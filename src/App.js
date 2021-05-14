@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit done <code>src/App.js</code> and save to reload.
         </p>
- 
+          <p>My first React paragraph</p>
       </header>
     </div>
   );
